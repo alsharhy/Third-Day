@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  direction: rtl;
+  text-align: center;
+  background-color: rgba(170, 110, 36, 0.774);
+  /* background-size: cover;
+  background-position: center; */
+}
+table {
+  width: auto;
+  margin: auto;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
+th {
+  background-color: #faf4f495;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  color: rgb(17, 7, 7);
+  margin-top: 20px;
+  font-size: 12px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.head{
+    color: rgb(10, 10, 55);
+}
